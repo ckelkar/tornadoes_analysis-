@@ -1,0 +1,61 @@
+id	code	name
+1	AL	alabama
+2	AK	alaska
+4	AZ	arizona
+5	AR	arkansas
+6	CA	california
+8	CO	colorado
+9	CT	connecticut
+10	DE	delaware
+11	DC	district of columbia
+12	FL	florida
+13	GA	georgia
+15	HI	hawaii
+16	ID	idaho
+17	IL	illinois
+18	IN	indiana
+19	IA	iowa
+20	KS	kansas
+21	KY	kentucky
+22	LA	louisiana
+23	ME	maine
+24	MD	maryland
+25	MA	massachusetts
+26	MI	michigan
+27	MN	minnesota
+28	MS	mississippi
+29	MO	missouri
+30	MT	montana
+31	NE	nebraska
+32	NV	nevada
+33	NH	new hampshire
+34	NJ	new jersey
+35	NM	new mexico
+36	NY	new york
+37	NC	north carolina
+38	ND	north dakota
+39	OH	ohio
+40	OK	oklahoma
+41	OR	oregon
+42	PA	pennsylvania
+44	RI	rhode island
+45	SC	south carolina
+46	SD	south dakota
+47	TN	tennessee
+48	TX	texas
+49	UT	utah
+50	VT	vermont
+51	VA	virginia
+53	WA	washington
+54	WV	west virginia
+55	WI	wisconsin
+56	WY	wyoming
+60	AS	america samoa
+64	FM	federated states of micronesia
+66	GU	guam
+68	MH	marshall islands
+69	MP	northern mariana islands
+70	PW	palau
+72	PR	puerto rico
+74	UM	U.S. Minor Outlying Islands
+78	VI	virgin islands of the united states

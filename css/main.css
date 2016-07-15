@@ -1,0 +1,23 @@
+.label{
+    font-weight: bold;
+    text-anchor: middle;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    padding: 4px;
+    background:white;
+    border: 0px;
+    pointer-events: none;
+}
+
+.q0-9 { fill:#1a9850; }
+.q1-9 { fill:#66bd63; }
+.q2-9 { fill:#a6d96a; }
+.q3-9 { fill:#d9ef8b; }
+.q4-9 { fill:#ffffbf; }
+.q5-9 { fill:#fee08b; }
+.q6-9 { fill:#fdae61; }
+.q7-9 { fill:#f46d43; }
+.q8-9 { fill:#d73027; }
